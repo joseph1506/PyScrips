@@ -3,5 +3,8 @@ def hashCalc():
     items = map(int,input().split())
     print(items)
 
-hashCalc()
+if __name__ == '__main__':
+    mytuple= 23,45,'werwwr'
+    print(mytuple)
+
 
